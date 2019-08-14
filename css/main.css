@@ -1,0 +1,17 @@
+/* Reference colors for this project:
+#96e
+#ff6
+#ddd
+#120529
+*/
+
+body {
+  background-color: #120529;
+  color: #ddd;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+#my-name {
+  font-style: italic;
+  font-weight: 300;
+}
