@@ -8,6 +8,10 @@ body {
   font-family: 'Catamaran', sans-serif;
 }
 
-#my-name {
+.my-name {
   font-weight: 900;
+}
+
+.welcome-msg {
+  font-weight: 500;
 }
