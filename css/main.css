@@ -26,3 +26,17 @@ body {
   font-weight: 500;
   line-height: 1.5;
 }
+
+.icons {
+  margin-bottom: 50px;
+}
+
+.cta-button {
+  color: #262626;
+  background-color: #fd2;
+  font-size: 20px;
+  font-weight: 600;
+  text-decoration: none;
+  padding: 4px 40px;
+  border-radius: 25px;
+}
