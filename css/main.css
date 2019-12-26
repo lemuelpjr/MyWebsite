@@ -50,7 +50,7 @@ body {
   font-size: 8rem;
   font-weight: 900;
   line-height: 1.2;
-  margin-top: 3rem;
+  margin-top: 2rem;
   margin-bottom: 6rem;
 }
 
@@ -85,9 +85,22 @@ body {
   text-decoration: none;
   padding: .6rem 5rem;
   border-radius: 25px;
+  display: inline-block;
+  margin-bottom: 2rem;
 }
 
 .cta-button:hover {
   color: #fd2;
   background-color: #262626;
+}
+
+/* Change font sizes for smaller screens */
+@media only screen and (max-width: 360px) {
+  .my-job {
+    font-size: 7rem;
+  }
+
+  .welcome-msg {
+    font-size: 1.8rem;
+  }
 }
