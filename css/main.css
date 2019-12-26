@@ -50,12 +50,15 @@ body {
   font-size: 8rem;
   font-weight: 900;
   line-height: 1.2;
+  margin-top: 3rem;
+  margin-bottom: 6rem;
 }
 
 .welcome-msg {
   font-size: 2rem;
   font-weight: 500;
   line-height: 1.5;
+  margin-bottom: 3rem;
 }
 
 .icons {
